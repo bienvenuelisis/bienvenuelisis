@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**bienvenuelisis/bienvenuelisis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Kokou AGBAVON</h1>
 <h3 align="center">Flutter & mobile stacks developer. JAMstack enthusiast. Humanist. Africa future optimist. Child of internet.</h3>
 
