@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/bienvenuelisis, https://dev.noirmeilleur.com/rss.xml"
+                feed_list: "https://dev.to/feed/bienvenuelisis, https://dev.noirmeilleur.com/rss.xml, https://noirmeilleur.com/feed.xml"
