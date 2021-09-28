@@ -11,13 +11,13 @@
 
 - 📝 I regularly write articles on [https://dev.noirmeilleur.com/](https://dev.noirmeilleur.com/)
 
-- 💬 Ask me about **Flutter & Dart, Java, resilience...**
+- 💬 Ask me about **Flutter & Dart, Javascript, JAMStack, React Frontend Frameworks, NodeJS, Firebase, Java, resilience...**
 
-- 📫 How to reach me **Write me a mail at agbavonbienvenu@gmail.com**
+- 📫 To reach me **Write me a mail at agbavonbienvenu@gmail.com**
 
-- 📄 Know about my experiences [https://kokou.noirmeilleur.com/](https://kokou.noirmeilleur.com/)
+- 📄 Get information about my experiences at [https://kokou.noirmeilleur.com/](https://kokou.noirmeilleur.com/)
 
-- ⚡ Also, **I produces contents (news, articles, researches, podcasts) about Africa and it's diaspora at https://noirmeilleur.com/**
+- ⚡ **I also produces contents (news, articles, researches, podcasts) about Africa and it's diaspora at https://noirmeilleur.com/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
