@@ -22,9 +22,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Vie financière : Partie 1.](https://noirmeilleur.comhttps://noirmeilleur.com/vie-financiere-pt-1/)
-- [Testez votre Connaissance Générale de l'Afrique.](https://noirmeilleur.comhttps://noirmeilleur.com/quizz-afrique-1)
-- [Mensonges de l'histoire : 1 à 5.](https://noirmeilleur.comhttps://noirmeilleur.com/mensonges-histoires-1-a-5/)
-- [Que savez vous réellement de l'argent ? Partie 2 : Léger zoom sur la matrice de l'argent.](https://noirmeilleur.comhttps://noirmeilleur.com/que-savez-vous-argent-pt-2-zoom-sur-la-matrice/)
+- [Testez votre Connaissance Générale de l&#39;Afrique.](https://noirmeilleur.comhttps://noirmeilleur.com/quizz-afrique-1)
+- [Mensonges de l&#39;histoire : 1 à 5.](https://noirmeilleur.comhttps://noirmeilleur.com/mensonges-histoires-1-a-5/)
+- [Que savez vous réellement de l&#39;argent ? Partie 2 : Léger zoom sur la matrice de l&#39;argent.](https://noirmeilleur.comhttps://noirmeilleur.com/que-savez-vous-argent-pt-2-zoom-sur-la-matrice/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
