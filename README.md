@@ -7,25 +7,17 @@
 
 - 👯 I’m looking to collaborate on **every new interesting projects, using modern technologies.**
 
-- 👨‍💻 Some of my projects are available at [https://apps.noirmeilleur.com/](https://apps.noirmeilleur.com/)
+- 👨‍💻 Some of my projects are available [here](https://bienvenuelisis.github.io/apps-noir-meilleur/)
 
-- 📝 I regularly write articles on [https://dev.noirmeilleur.com/](https://dev.noirmeilleur.com/)
+- 📝 I regularly write articles on [my blog](https://blog.theresilient.dev/)
 
 - 💬 Ask me about **Flutter & Dart, Javascript, JAMStack, React Frontend Frameworks, NodeJS, Firebase, Java, resilience...**
 
 - 📫 To reach me **Write me a mail at agbavonbienvenu@gmail.com**
 
-- 📄 Get information about my experiences at [https://kokou.noirmeilleur.com/](https://kokou.noirmeilleur.com/)
+- 📄 Get information about my experiences with [my portofolio](https://bienvenuelisis.github.io/)
 
-- ⚡ **I also produces contents (news, articles, researches, podcasts) about Africa and it's diaspora at https://noirmeilleur.com/**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Vie financière : Partie 1.](https://noirmeilleur.comhttps://noirmeilleur.com/vie-financiere-pt-1/)
-- [Testez votre Connaissance Générale de l&#39;Afrique.](https://noirmeilleur.comhttps://noirmeilleur.com/quizz-afrique-1)
-- [Mensonges de l&#39;histoire : 1 à 5.](https://noirmeilleur.comhttps://noirmeilleur.com/mensonges-histoires-1-a-5/)
-- [Que savez vous réellement de l&#39;argent ? Partie 2 : Léger zoom sur la matrice de l&#39;argent.](https://noirmeilleur.comhttps://noirmeilleur.com/que-savez-vous-argent-pt-2-zoom-sur-la-matrice/)
-<!-- BLOG-POST-LIST:END -->
+- ⚡ **I also produces contents (news, articles, researches, podcasts) about Africa and it's diaspora at [Noir Meilleur Blog](https://bienvenuelisis.github.io/noir-meilleur-jekyll/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +27,7 @@
 <a href="https://stackoverflow.com/users/10256884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10256884" height="30" width="40" /></a>
 <a href="https://instagram.com/noir__meilleur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noir__meilleur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uckhol2-lss3ltph7fv1wwkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckhol2-lss3ltph7fv1wwkq" height="30" width="40" /></a>
-<a href="/https://dev.noirmeilleur.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.noirmeilleur.com/rss.xml" height="30" width="40" /></a>
+<a href="https://blog.theresilient.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.noirmeilleur.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
