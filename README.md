@@ -11,7 +11,7 @@
 
 - 📄 Get information about my experiences with [my portofolio](https://bienvenuelisis.github.io/)
 
-- ⚡ **I also produces contents (news, articles, researches, podcasts) about Tech, and Africa StartUp ecosystem at [Noir Meilleur Blog](https://newsletter.theresilient.dev/)**
+- ⚡ **I also produces contents (news, articles, researches, podcasts) about Tech, and Africa StartUp ecosystem at [Tech & Africa Startups Newsletter](https://newsletter.theresilient.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
